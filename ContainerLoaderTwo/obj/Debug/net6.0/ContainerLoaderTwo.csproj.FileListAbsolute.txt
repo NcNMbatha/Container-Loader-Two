@@ -1,0 +1,12 @@
+C:\Users\NjabuloMbatha\Desktop\ContainerLoader\ContainerLoaderTwo\ContainerLoaderTwo\bin\Debug\net6.0\ContainerLoaderTwo.deps.json
+C:\Users\NjabuloMbatha\Desktop\ContainerLoader\ContainerLoaderTwo\ContainerLoaderTwo\bin\Debug\net6.0\ContainerLoaderTwo.dll
+C:\Users\NjabuloMbatha\Desktop\ContainerLoader\ContainerLoaderTwo\ContainerLoaderTwo\bin\Debug\net6.0\ref\ContainerLoaderTwo.dll
+C:\Users\NjabuloMbatha\Desktop\ContainerLoader\ContainerLoaderTwo\ContainerLoaderTwo\bin\Debug\net6.0\ContainerLoaderTwo.pdb
+C:\Users\NjabuloMbatha\Desktop\ContainerLoader\ContainerLoaderTwo\ContainerLoaderTwo\obj\Debug\net6.0\ContainerLoaderTwo.csproj.AssemblyReference.cache
+C:\Users\NjabuloMbatha\Desktop\ContainerLoader\ContainerLoaderTwo\ContainerLoaderTwo\obj\Debug\net6.0\ContainerLoaderTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NjabuloMbatha\Desktop\ContainerLoader\ContainerLoaderTwo\ContainerLoaderTwo\obj\Debug\net6.0\ContainerLoaderTwo.AssemblyInfoInputs.cache
+C:\Users\NjabuloMbatha\Desktop\ContainerLoader\ContainerLoaderTwo\ContainerLoaderTwo\obj\Debug\net6.0\ContainerLoaderTwo.AssemblyInfo.cs
+C:\Users\NjabuloMbatha\Desktop\ContainerLoader\ContainerLoaderTwo\ContainerLoaderTwo\obj\Debug\net6.0\ContainerLoaderTwo.csproj.CoreCompileInputs.cache
+C:\Users\NjabuloMbatha\Desktop\ContainerLoader\ContainerLoaderTwo\ContainerLoaderTwo\obj\Debug\net6.0\ContainerLoaderTwo.dll
+C:\Users\NjabuloMbatha\Desktop\ContainerLoader\ContainerLoaderTwo\ContainerLoaderTwo\obj\Debug\net6.0\ref\ContainerLoaderTwo.dll
+C:\Users\NjabuloMbatha\Desktop\ContainerLoader\ContainerLoaderTwo\ContainerLoaderTwo\obj\Debug\net6.0\ContainerLoaderTwo.pdb
